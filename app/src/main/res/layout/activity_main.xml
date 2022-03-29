@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnNewActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1"/>
+    <Button
+        android:id="@+id/btnNewActivity1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2"/>
+    <Button
+        android:id="@+id/btnNewActivity2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3"/>
+
+    <Button
+        android:id="@+id/btnNewActivity3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Directory Name"/>
+
+    <Button
+        android:id="@+id/btnNewActivity4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Directory Name : 설정 안됨"/>
+
+</LinearLayout>
